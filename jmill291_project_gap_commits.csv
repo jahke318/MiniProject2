@@ -1,0 +1,471 @@
+pre/post,prj,commit,author,time,message
+pre,annkennedy_tracer,d7fe9f7d2215645e4cfe003c91c39f9bc542704f,Ann Kennedy <kennedya@caltech.edu>,1558935214,"fix small navigation bug
+"
+pre,annkennedy_tracer,c0e35c67b745e5b6033d14838423472e6eab8ea9,Ann Kennedy <kennedya@caltech.edu>,1558983478,"fixed sort-by-CP
+"
+pre,annkennedy_tracer,d9bb3c08e181eb632faaea5bd1f4b988d4b217c4,Ann Kennedy <kennedya@caltech.edu>,1558989839,"added K-means clustering of neurons
+"
+pre,annkennedy_tracer,03a8aa7337c7b5aa9c6b632560f23e9e12d3fa6e,Ann Kennedy <kennedya@caltech.edu>,1558993314,"Update bento_trace_tools.png
+"
+pre,annkennedy_tracer,86b1909c6f26f5e14550a7492d2a28f5a60067ee,Ann Kennedy <kennedya@caltech.edu>,1559008715,"Update computeBTA.m
+"
+pre,annkennedy_tracer,f6471a41ac9df9090233c830ba0369a2c6a3b868,Ann Kennedy <kennedya@caltech.edu>,1559670757,"some updates to behavior-triggered averaging
+"
+pre,annkennedy_tracer,c9f6c1f21f8a87c0f387f35bf84490fdf298d262,Ann Kennedy <kennedya@caltech.edu>,1559884304,"enable pose display without linked movies
+"
+pre,annkennedy_tracer,fcd65e77181f16d34d34e83038ef4bfed757a70b,Ann Kennedy <kennedya@caltech.edu>,1559933680,"bugfix
+"
+pre,annkennedy_tracer,38ad81cb80f3f0a2f52db1c67abcde3b269e61d2,Ann Kennedy <kennedya@caltech.edu>,1562786408,"tracking updates and OS compatibility
+"
+pre,annkennedy_tracer,6fd9ab01fe36d550cf1db964a32b1a0eeaed4c4e,Ann Kennedy <kennedya@caltech.edu>,1562801246,"Update updatePlot.m
+"
+post,annkennedy_tracer,7fc90b10b52f47862bb78bf31d5bebecd99b7235,Ann Kennedy <kennedya@caltech.edu>,1573263409,"fixed some trace display bugs
+"
+post,annkennedy_tracer,71ed06fdf32d3e515d20eb0b5ba1162c3f93e4a6,Ann Kennedy <kennedya@caltech.edu>,1578552728,"multi-arena MARS support
+"
+post,annkennedy_tracer,08c471ed5424dc3a561be4695f7254a1e229e9f5,Ann Kennedy <kennedya@caltech.edu>,1587505194,"bugfix to promptFeatures
+"
+post,annkennedy_tracer,e745a1450e805a48963818442f9457f580665058,Ann Kennedy <kennedya@caltech.edu>,1587677854,Update README.md
+post,annkennedy_tracer,b7e1894e409dd73d80da1c5f64db5b4660f53b2f,Ann Kennedy <kennedya@caltech.edu>,1587684842,"Update construct_gui.m
+"
+post,annkennedy_tracer,09af8d4932510dcdc711ec066d86fb316a748c8b,Ann Kennedy <kennedya@caltech.edu>,1587684847,"Merge branch 'master' of https://github.com/annkennedy/bento
+"
+post,annkennedy_tracer,305936936bc7e8fe5ec4162fc7f0e6a76f1464f8,Ann Kennedy <kennedya@caltech.edu>,1587751226,"removing usage of ""contains"" for compatibility
+"
+post,annkennedy_tracer,b682ed5c473fe05495e914c70be37a0082be80e9,Ann Kennedy <kennedya@caltech.edu>,1589999695,"Update makeBehaviorSummary.m
+"
+post,annkennedy_tracer,06c6847cb491a03975861b3d33648f563c6e419e,Ann Kennedy <kennedya@caltech.edu>,1590545853,"Update makeBehaviorSummary.m
+"
+post,annkennedy_tracer,1ffc9e74af363a9cbabedb19e7346bc34ba58759,Ann Kennedy <kennedya@caltech.edu>,1590546125,"support for annot files as both times and frames
+"
+pre,brentp_vcfanno,c4c0ae9f0f39415b2a6408066977b89e561fffad,Brent Pedersen <bpederse@gmail.com>,1626854925,"update travis
+"
+pre,brentp_vcfanno,0314e53319a2fecf65f4d31ed740f857a2ce4da3,Brent Pedersen <bpederse@gmail.com>,1635259743,"add vcfanno version to header (#140)
+"
+pre,brentp_vcfanno,dd5573dd4a4c9175dd8914838dd44a4e68af61b6,Brent Pedersen <bpederse@gmail.com>,1635260111,"update go in travis
+"
+pre,brentp_vcfanno,7d712fd8701c0501ae40b9432032743d6475aa32,Brent Pedersen <bpederse@gmail.com>,1655194363,"fix travis-ci badge
+"
+pre,brentp_vcfanno,de4d75eb436f03f7677e02eb7a1728e9a489bd81,Brent Pedersen <bpederse@gmail.com>,1663606591,"bump version for #123 fix
+"
+pre,brentp_vcfanno,11fbe54ec78c86e98e0a6bb3e394759e01bfac3e,Brent Pedersen <bpederse@gmail.com>,1669678205,"update modules and add tests for #150
+"
+pre,brentp_vcfanno,55522d1087008291f6412217345edab26339ad15,Brent Pedersen <bpederse@gmail.com>,1669709341,"bump version
+"
+pre,brentp_vcfanno,df948cbc94d4f3a575a0dd39cdc842fd281334bb,Martin Tzvetanov Grigorov <mgrigorov@apache.org>,1700723516,"Release a binary for Linux ARM64
+
+Signed-off-by: Martin Tzvetanov Grigorov <mgrigorov@apache.org>
+"
+pre,brentp_vcfanno,2fba63fef026c203bcaeaccfa792a67e1abee626,Martin Grigorov <martin-g@users.noreply.github.com>,1700730627,"Release a binary for Linux ARM64 (#158)
+
+Signed-off-by: Martin Tzvetanov Grigorov <mgrigorov@apache.org>"
+pre,brentp_vcfanno,50b4727dc7b7af110c1af30f219edd66c4ceb1d8,Brent Pedersen <bpederse@gmail.com>,1700730805,"update makefile
+"
+post,brentp_vcfanno,f01655ac6bb8cda983dd4d4b62d103c78136e595,Brent Pedersen <bpederse@gmail.com>,1751395455,"closes #163 by updating bix
+
+handles case where END= is final info field for SVs
+"
+post,brentp_vcfanno,facf0b24d4d36d34d6f71520c84c1b4c50406332,Brent Pedersen <bpederse@gmail.com>,1756585014,"bump version of vcfgo for fix for qual of 256
+"
+pre,isa-tools_isa-api,9c82cfaef71d0cf41fa6ed7756b725c9f4772a20,Philippe Rocca-Serra <proccaserra@gmail.com>,1744363693,"upping numpy and pandas version for isacookbok
+"
+pre,isa-tools_isa-api,1c2e893a391a7df25d2d4e810de0b04f4a56319d,Philippe Rocca-Serra <proccaserra@gmail.com>,1744364489,"Merge pull request #579 from ISA-tools/develop
+
+upping numpy and pandas version for isacookbok"
+pre,isa-tools_isa-api,11b1a5bd6290f5252db0905044c0e380cf13386a,Philippe Rocca-Serra <proccaserra@gmail.com>,1744642921,"adding tests on converter and net services
+"
+pre,isa-tools_isa-api,64fd933605d47b8769c36e0c381a2b200116b7a8,Philippe Rocca-Serra <proccaserra@gmail.com>,1745410796,"adding tests
+"
+pre,isa-tools_isa-api,2ccead838bdda8ab208ce47aed0e3009a1b116ac,Philippe Rocca-Serra <proccaserra@gmail.com>,1745413252,"minor corrections to tests
+"
+pre,isa-tools_isa-api,b1d9ff40fefce16470b88b65194c878356f741c2,Philippe Rocca-Serra <proccaserra@gmail.com>,1745441820,"more tests
+"
+pre,isa-tools_isa-api,beda5ee03a0d2e0d045370a1ecd98a441a8ec26e,Philippe Rocca-Serra <proccaserra@gmail.com>,1745940809,"adding tests
+"
+pre,isa-tools_isa-api,e7e74b3912a09a33fcaf9342b4a5acf95753552d,Philippe Rocca-Serra <proccaserra@gmail.com>,1745943350,"improving test coverage for json2jsonld.py
+"
+pre,isa-tools_isa-api,f4b002d4b0ad80d694b07ed55b9bc46be86b2d89,Philippe Rocca-Serra <proccaserra@gmail.com>,1745948365,"improving test coverage
+"
+pre,isa-tools_isa-api,a8c08b22efb9d9b53d777021722a6ff3e3d34135,Philippe Rocca-Serra <proccaserra@gmail.com>,1747408754,"more tests
+"
+post,isa-tools_isa-api,bc01e954dd2af27c7284907dc6a1bb29f0900c30,Sören Wacker <s.wacker@tudelft.nl>,1759324555,"Fix deprecated pandas DataFrame.set_axis() inplace parameter
+
+Replace inplace=True with assignment pattern in set_axis() calls to fix
+compatibility with pandas 2.x where the inplace parameter is deprecated.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post,isa-tools_isa-api,5afbec10692890c78ec26233f9a3655aa5444e0d,Sören Wacker <s.wacker@tudelft.nl>,1759325339,"Fix pandas replace() downcasting deprecation warnings and add example notebook
+
+- Add infer_objects(copy=False) after replace() calls in write.py to fix
+  FutureWarning about deprecated downcasting behavior in pandas 2.x
+- Create comprehensive getting-started Jupyter notebook demonstrating:
+  - Creating ISA Investigation, Study, and Assay objects
+  - Adding ontology annotations and controlled vocabularies
+  - Working with source materials, samples, and processes
+  - Creating assays with data files
+  - Exporting to ISA-JSON and ISA-Tab formats
+  - Reading and validating ISA metadata
+  - Converting between formats
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post,isa-tools_isa-api,51ffacdceee49202051d39e3034636c1e2902905,Sören Wacker <s.wacker@tudelft.nl>,1759326890,"Add comprehensive ISA-API examples notebook from documentation
+
+Create a comprehensive Jupyter notebook that integrates all examples from
+the official ISA-API documentation at https://isa-tools.org/isa-api/content/
+
+The notebook includes verified working examples for:
+- Creating ISA objects (Investigation, Study, Assay)
+- Creating simple ISA-Tab (based on createSimpleISAtab.py)
+- Creating simple ISA-JSON (based on createSimpleISAJSON.py)
+- Reading ISA-Tab and ISA-JSON files
+- Validating ISA-Tab (based on validateISAtab.py)
+- Validating ISA-JSON (based on validateISAjson.py)
+- Converting between ISA-Tab and ISA-JSON formats
+- Batch validation of multiple files
+- Advanced features: Comments, Study Factors, plink(), batch_create_materials()
+
+All examples have been tested to ensure they work correctly with the
+current codebase and pandas 2.x compatibility fixes.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post,isa-tools_isa-api,689dc4472d2d7ec0cedf8db94ba19bf846402d12,Sören Wacker <s.wacker@tudelft.nl>,1759330673,"Fix ISA-JSON loading issue in comprehensive examples notebook
+
+- Add proper characteristic category registration before creating samples
+  to ensure ISA-JSON can be loaded back without KeyError
+- Add try-except block for ISA-JSON loading with helpful error message
+- Document the limitation that programmatically-created ISA-JSON may have
+  issues with @id references for characteristic categories
+- Note that ISA-JSON created from ISA-Tab conversion works more reliably
+
+The fix ensures study.characteristic_categories is populated before
+adding characteristics to samples, which is required for proper @id
+reference generation in ISA-JSON serialization.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post,isa-tools_isa-api,1e595c02d7d61559621f1a639c8acbbb48eecd98,Sören Wacker <s.wacker@tudelft.nl>,1759351666,"Fix isatab2json conversion error handling in notebook
+
+- Add None check for isatab2json.convert() return value
+- Use validate_first=False to avoid validation issues with simple examples
+- Add helpful error message when conversion fails
+- Use safe dict.get() method for accessing identifier
+
+The isatab2json.convert() function can return None if validation fails
+or if there are issues with the input, so we need to check the return
+value before attempting to use it.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post,isa-tools_isa-api,3c887a0bf17a10ed68ccb08cec85bdf2a8675241,Sören Wacker <s.wacker@tudelft.nl>,1759404084,"Fix batch_validate() function calls in notebook
+
+- Remove incorrect second parameter from batch_validate() calls
+- The function only takes a list of paths, not a report path parameter
+- Add proper report saving using json.dumps()
+- Add summary statistics for batch validation results
+
+The documentation example in the ISA-API docstring was incorrect,
+showing a second parameter that does not exist in the actual function
+signature.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post,isa-tools_isa-api,1b67fddf14d7823e65211660e20b355a18dbadde,Sören Wacker <s.wacker@tudelft.nl>,1759404861,"Fix batch validation report structure handling
+
+- batch_validate() returns dict with ""batch_report"" key containing list
+- Update code to access batch_result[""batch_report""] instead of treating as direct dict
+- Fix iteration over the list of reports for error/warning counting
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post,isa-tools_isa-api,7ad4d00176e5e80dbed795bdd649d5d1aae839af,Sören Wacker <s.wacker@tudelft.nl>,1759405674,"Document required changes to make ISA-API examples work
+
+Add detailed notes explaining the 5 modifications needed to make
+the official documentation examples work correctly:
+
+1. Characteristic category registration for ISA-JSON compatibility
+2. isatab2json conversion None check
+3. batch_validate function signature correction
+4. batch_validate return structure handling
+5. ISA-JSON loading error handling
+
+Each change includes the issue, fix, and reason to help users
+understand why modifications were necessary.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+"
+post,isa-tools_isa-api,eab50ed639c4c03f66a4058c634e58aacda97288,Sören Wacker <s.wacker@tudelft.nl>,1759662185,"Add Python 3.12 and 3.13 compatibility
+"
+post,isa-tools_isa-api,d5b21f692b99a78ad85b9d94305fe0e06cd0364e,Sören Wacker <s.wacker@tudelft.nl>,1759685358,"linting fixed
+"
+pre,markmfredrickson_ritools,2e607810452d463a4a112d0c6e830b86965f30f4,jwbowers <jake@jakebowers.org>,1406831872,"Showing what the post alignment rank transform does
+"
+pre,markmfredrickson_ritools,4a87151d48da43d2a8ba5592b4e89fc7d8a2ece0,jwbowers <jake@jakebowers.org>,1406831941,"Ensuring that ssvar is calculated before the transformation so that the sd of the randomization distribution of the mean differences is based on the mean differences and not mean differences of transformed data
+"
+pre,markmfredrickson_ritools,fe7ac755c70c9811fe810ff15eeb7ac2fb176f7a,Ben B Hansen <bbh@umich.edu>,1407052758,"After the post.align.trans, recenter tmat (design matrix).
+(This is more expensive than centering zz, but it's necessary for eventual
+tcov calculation to be correct.  The change should also correct the
+calculation of the chisquare statistic.)
+"
+pre,markmfredrickson_ritools,8ab0ef3db475a6d42fcf56aeba4ca9a299644264,Ben B Hansen <bbh@umich.edu>,1407055573,"Edited a test for post alignment transform.  (Didn't understand the benchmark and was failing; replaced w/ wilcox.test as benchmark, and passed.)
+"
+pre,markmfredrickson_ritools,69e66637bad88050a45308aa4463e17ca624813b,Ben B Hansen <bbh@umich.edu>,1407056587,"When both stratum weights and a post alignment transformation are provided, I think users will expect the transformation to be applied before the the weights.  Modified to make this so.
+"
+pre,markmfredrickson_ritools,95a146da371cd029b298d509e249cda7eb4fb1db,Ben B Hansen <bbh@umich.edu>,1407056587,"When both stratum weights and a post alignment transformation are provided, I think users will expect the transformation to be applied before the the weights.  Modified to make this so.
+"
+pre,markmfredrickson_ritools,211a48dc7fa704730fcfa86c6997f5edf3d6a1ac,Ben B Hansen <bbh@umich.edu>,1407056915,"Merging local and upstream branches in order to amend a premature commit.
+Merge branch 'posttransform' of github.com:markmfredrickson/RItools into posttransform
+"
+pre,markmfredrickson_ritools,fbb6bc5102d77fa9b5f5d6520b7ff0678f6a8271,Mark M. Fredrickson <mark.m.fredrickson@gmail.com>,1407363068,"fixing minor issue where the 'tcov' attribute is expected to always be a matrix
+"
+pre,markmfredrickson_ritools,e9c9aa9136fb2c9d1ba75704a2a9601314c3ac8a,jwbowers <jake@jakebowers.org>,1408927173,"Fixing shapes in the legend and allowing more flexibility in labels in balanceplot
+"
+pre,markmfredrickson_ritools,00aa654ac5c2af430827031d9523aa3bca1721e0,Mark M. Fredrickson <mark.m.fredrickson@gmail.com>,1410022637,"Merge branch 'master' into posttransform
+"
+post,markmfredrickson_ritools,34c225f2753f88115519e6aa582827f26a5757da,Ben B Hansen <bbh@umich.edu>,1436965098,"Docs typo fix.
+"
+post,markmfredrickson_ritools,a9753cf82f915d673ecf0c3ae53b9cb1e172e8b1,Josh Errickson <jerrick@umich.edu>,1437612860,"First version at addressing #15, allowing strata() in the formula of xBal
+"
+post,markmfredrickson_ritools,97268b83919d0baa49166454243dd46538dbb28e,Josh Errickson <jerrick@umich.edu>,1437645337,"Add some comments for strata changes
+"
+post,markmfredrickson_ritools,61be58300b6fc88d7b9373f83b8b6e0cb8ad6947,Ben Hansen <bbh@umich.edu>,1438014856,"Bumped version no, added NEWS headline re strata() enhancement.
+"
+post,markmfredrickson_ritools,ca5ec84f8790fd0fcfa4653b9398448fffbedecb,Josh Errickson <jerrick@umich.edu>,1438045754,"Typo fix
+"
+post,markmfredrickson_ritools,9bff2457d59527ea1e906fa7814c8902813af0d9,Josh Errickson <jerrick@umich.edu>,1438097221,"Updated makefile to include interactive-emacs, copying optmatch
+"
+post,markmfredrickson_ritools,bcab1138df1036f3bd20152d83064dd8cb298e3f,Mark M. Fredrickson <mark.m.fredrickson@gmail.com>,1438288419,"adding testthat requirment to installing RItools
+"
+post,markmfredrickson_ritools,631b1245cbea34a4f91952cb70eb18d47bd3d53b,Mark M. Fredrickson <mark.m.fredrickson@gmail.com>,1438357455,"setting up basic tests for clustered treatment assignment
+"
+post,markmfredrickson_ritools,81a052e1e34bddf32284e22919d598ae45e9d573,Mark M. Fredrickson <mark.m.fredrickson@gmail.com>,1438358933,"more cluster tests
+"
+post,markmfredrickson_ritools,b827d289314148cb251a6a211f0bf44ec32abc49,Mark M. Fredrickson <mark.m.fredrickson@gmail.com>,1438803853,"Integrating `makeDesign` into xBalance
+"
+pre,neuroelectro_neuroelectro_org,8e053ceaf0780591129a97fc66a167f19ebf50ff,stripathy <stripat3@gmail.com>,1472492724,"fixes bug of misparsing units when described in table cells
+"
+pre,neuroelectro_neuroelectro_org,b1a98b520c1715541aaad37104f90d738669b471,stripathy <stripat3@gmail.com>,1472492934,"removes print statement from last commit
+"
+pre,neuroelectro_neuroelectro_org,ef4d88e5f4c141f5b01b75efb6b21326aeddd51b,stripathy <stripat3@gmail.com>,1472496786,"related to #300 initial population of regex for synaptic solution compounds
+"
+pre,neuroelectro_neuroelectro_org,956494af13a220d158b2e485e23849c1738a814f,Dmitry Tebaykin <dmitry.tebaykin@gmail.com>,1472504679,"Fixed #330: added synaptic compounds to the list of text-mined things
+"
+pre,neuroelectro_neuroelectro_org,fa4b02b8be4cfd069c7f475b2c3762e224450c6a,stripathy <stripat3@gmail.com>,1472509509,"related to #300, adding newly extracted solution compounds to export spreadsheet
+"
+pre,neuroelectro_neuroelectro_org,15ebdf485d7aa8129ad397dd737ae0a32871c6e1,stripathy <stripat3@gmail.com>,1472509521,"Merge branch 'master' of https://github.com/neuroelectro/neuroelectro_org
+"
+pre,neuroelectro_neuroelectro_org,319b1e70628eaa42630565c5530a66847d806ec6,stripathy <stripat3@gmail.com>,1473194555,"improves regex for AP-5 solution finding
+"
+pre,neuroelectro_neuroelectro_org,79f1d6395f074dd0c52d700ec70e5f2a2c7fe62c,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1571791083,"Bump jquery from 1.7.3 to 3.4.1 in /neuroelectro/static/src/DataTables
+
+Bumps [jquery](https://github.com/jquery/jquery) from 1.7.3 to 3.4.1.
+- [Release notes](https://github.com/jquery/jquery/releases)
+- [Commits](https://github.com/jquery/jquery/commits/3.4.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre,neuroelectro_neuroelectro_org,e3691d5413af19b706a53b31b564e2a406a15cb2,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1588201280,"Bump jquery from 1.7.3 to 3.5.0 in /neuroelectro/static/src/DataTables
+
+Bumps [jquery](https://github.com/jquery/jquery) from 1.7.3 to 3.5.0.
+- [Release notes](https://github.com/jquery/jquery/releases)
+- [Commits](https://github.com/jquery/jquery/commits/3.5.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre,neuroelectro_neuroelectro_org,dd9aa237d53f77d27475f65207168537d68c3e3a,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1588201282,"Merge e3691d5413af19b706a53b31b564e2a406a15cb2 into 319b1e70628eaa42630565c5530a66847d806ec6
+"
+post,neuroelectro_neuroelectro_org,5ad4116d6791d98e00038f5dde23be9f1fdf7e81,Shreejoy Tripathy <stripat3@gmail.com>,1733588026,Update README.md
+post,neuroelectro_neuroelectro_org,f8f8179e2ceb69023ea18bba29861cd2992d73af,Shreejoy Tripathy <stripat3@gmail.com>,1733588107,Update README.md
+post,neuroelectro_neuroelectro_org,8f1f7cc8b86e9c81468ac0833f26c0dcbc2a46d8,Shreejoy Tripathy <stripat3@gmail.com>,1733588476,Update README.md
+post,neuroelectro_neuroelectro_org,b16946e3170e2e0ad9403ec4b5e8cf12465cd3d9,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1741605788,"Merge e3691d5413af19b706a53b31b564e2a406a15cb2 into 8f1f7cc8b86e9c81468ac0833f26c0dcbc2a46d8
+"
+pre,nvidiagameworks_falcor,039f796d08d537871af9fa3e6bc10fe72e91cbb0,Lukas Gersthofer <lukasgersthofer@gmai.com>,1566465266,"reverted unnecessary changes
+"
+pre,nvidiagameworks_falcor,4381bd1bad259fd2e38ab0511e22f7a8d40f6b27,Lukas Gersthofer <lukasgersthofer@gmail.com>,1566465807,"Merge 039f796d08d537871af9fa3e6bc10fe72e91cbb0 into f2b53b1bb9f8433f3c9e2570d2dc90dcd2440415
+"
+pre,nvidiagameworks_falcor,8b58ddcb1d2d4c6a4b2613b296cdc94946287697,Emil Roennbaeck <emilronnback@gmail.com>,1568449591,"Fix gcc-8 warnings
+
+catch-value
+class-memaccess
+class-memaccess
+stringop-overflow
+"
+pre,nvidiagameworks_falcor,3242601d91eeddd63154a2f3475b980b32ee054a,emilronnback <emilronnback@gmail.com>,1568450043,"Merge 8b58ddcb1d2d4c6a4b2613b296cdc94946287697 into f2b53b1bb9f8433f3c9e2570d2dc90dcd2440415
+"
+pre,nvidiagameworks_falcor,5e6842eed2d5a5692260204c908414cfb8303942,nbenty <nbenty@nvidia.com>,1568929808,"4.0 dev snapshot
+"
+pre,nvidiagameworks_falcor,41e97aa59d430ba93f6b90401cf3ca03e2bf0352,nbenty <nbenty@nvidia.com>,1568930200,"Check that NVAPI is installed when initializing the light collection
+"
+pre,nvidiagameworks_falcor,b4b1662e315533b83b5b50bcaf4f6db8bf0cb0f8,Kai-Hwa Yao <kyao@nvidia.com>,1571087120,"Profiler Loop Display: Fixed a bug where multiple invocations to the same function as part of a loop were displayed on separate lines despite displaying the combined time. (!263 Author: LC)
+"
+pre,nvidiagameworks_falcor,4552c433d0b2be4c44afdaa210499beb2d8e1942,Nir Benty <nbenty@nvidia.com>,1572023283,"No backface culling for alpha-tested meshes
+"
+pre,nvidiagameworks_falcor,472d0c415f390bd46c77b695b053eca6f1a96195,Kai-Hwa Yao <kyao@nvidia.com>,1572391737,"Updated readme
+"
+pre,nvidiagameworks_falcor,48aa4e28d6812ced004b56c83484de03b19526fa,Kai-Hwa Yao <kyao@nvidia.com>,1572397653,"Falcor 4.0 Preview (#222)
+
+* 4.0 dev snapshot
+"
+post,nvidiagameworks_falcor,a9ba39363ab63ea371eed7f984b7e2eebec1dc91,Kai-Hwa Yao <kyao@nvidia.com>,1584742390,"Falcor 4.0
+"
+post,nvidiagameworks_falcor,3d2372ad6322bf7c5ec5d7fe653d754fcd4c07fc,kyaoNV <kyao@nvidia.com>,1584762586,"Fixed potential divide by 0 and UI arg ordering
+"
+post,nvidiagameworks_falcor,76816c0e5c1d4490d11604bda692800b921d68e3,Kai-Hwa Yao <kyao@nvidia.com>,1584763392,"Falcor 4.0 (#228)
+
+* Falcor 4.0"
+post,nvidiagameworks_falcor,907e3ad8acbb6f72c6a15f20db9e9f4fd0e99206,Kai-Hwa Yao <kyao@nvidia.com>,1586563276,"Falcor 4.1
+"
+post,nvidiagameworks_falcor,35a23610404a4773fe61a0739661a8773a7cfa60,Kai-Hwa Yao <kyao@nvidia.com>,1586563276,"Falcor 4.0.1
+"
+post,nvidiagameworks_falcor,7bf71991f5bcefb0459201c274fc1dc40c9b3653,Kai-Hwa Yao <kyao@nvidia.com>,1586563829,"Updated version number
+"
+post,nvidiagameworks_falcor,4afe8e2fabfdff7148eeb8f4d56acc1446c80a94,Kai-Hwa Yao <kyao@nvidia.com>,1586563829,"Updated version number
+"
+post,nvidiagameworks_falcor,2e852805d12e3b9a2e325261b942553df068be5c,Kai-Hwa Yao <kyao@nvidia.com>,1586823088,"Disable analytic lights by default in path tracer graphs
+"
+post,nvidiagameworks_falcor,fe4ef9a9acc0efc0a938916a91b2ad4b277c3fd3,Kai-Hwa Yao <kyao@nvidia.com>,1586823088,"Disable analytic lights by default in path tracer graphs
+"
+post,nvidiagameworks_falcor,57e3d42a8656e0f5933e8b04a2d30be320c8c831,Kai-Hwa Yao <kyao@nvidia.com>,1587171865,"4.1 (#234)
+
+* Falcor 4 Revision 1"
+pre,openforcefield_openforcefield,a5cb6aa8bb1ed36fb47baee98bb6fd00fd86e3e2,John Chodera <john.chodera@choderalab.org>,1531606484,"More Molecule implementation
+"
+pre,openforcefield_openforcefield,555b57b596402041e1c9e2a6b3475e0651866a75,John Chodera <john.chodera@choderalab.org>,1531608972,"Fix example toctree levels
+"
+pre,openforcefield_openforcefield,d470c3f9216acd2b2544bfcad0c64e79ee757a13,John Chodera <john.chodera@choderalab.org>,1531609047,"Remove the Examples link from the navbar
+"
+pre,openforcefield_openforcefield,289d8490e59d78ae1c8b4bd61af51ab37d5cac12,John Chodera <john.chodera@choderalab.org>,1531645926,"Fix some formatting issues with examples
+"
+pre,openforcefield_openforcefield,25dffb055b87c8556b82d298efb5b0ff3536db89,John Chodera <john.chodera@choderalab.org>,1531675814,"Add all Molecule tests
+"
+pre,openforcefield_openforcefield,750b1a42e47ea9aa67745b4c2097ab7355ea6bcd,John Chodera <john.chodera@choderalab.org>,1531677813,"Add docs page on developing for the toolkit
+"
+pre,openforcefield_openforcefield,af83b881968dbf0de052efe682ffa40a8f3aa804,John Chodera <john.chodera@choderalab.org>,1531696643,"Now debugging Molecule
+"
+pre,openforcefield_openforcefield,50b5188a5d84ecd02605298f5779815be0a22968,John Chodera <john.chodera@choderalab.org>,1531696844,"Change placement of API warnings to give better sphinx rendering
+"
+pre,openforcefield_openforcefield,67b3e0ecbb26b8d8193b327f4f1efc4283bbaa29,John Chodera <john.chodera@choderalab.org>,1531777168,"Add more Molecule examples
+"
+pre,openforcefield_openforcefield,1ad0764f254ebaf6930655a3c77371e967b00008,John Chodera <john.chodera@choderalab.org>,1531906186,"Split out ChemicalEnvironments to its own user guide page
+"
+post,openforcefield_openforcefield,c066ba58bc666468f919245581fd3bda6bded9f3,John Chodera <john.chodera@choderalab.org>,1536524797,"Update LICENSE file to add pointer to Open Source Initiative and mention this is the MIT License
+"
+post,openforcefield_openforcefield,c970192505ee1caa344a3cac4e277b5c38e34e96,John Chodera <john.chodera@choderalab.org>,1536524820,"Add MIT License badge
+"
+post,openforcefield_openforcefield,2516116c506c941e1ccfb561abb76f0725535f0f,John Chodera <john.chodera@choderalab.org>,1536525055,"Add badges for anaconda cloud download count and funding to README
+"
+post,openforcefield_openforcefield,f9ddf4e6a01809ce262cf9f54d5e4b9f3c6f7f0b,John Chodera <john.chodera@choderalab.org>,1536526794,"Overhaul README
+"
+post,openforcefield_openforcefield,468570ed7334b26870a4a4b36f5e692539bf29f0,John Chodera <john.chodera@choderalab.org>,1536526950,"Fix badge issues
+"
+post,openforcefield_openforcefield,ff90b64393e36d94fde3e9083f5a4182f2cc34db,John Chodera <john.chodera@choderalab.org>,1536527154,"Fix typos in README
+"
+post,openforcefield_openforcefield,4a5d51d4e3cc00194754b0c6b5d35b54eb86ea23,John Chodera <john.chodera@choderalab.org>,1536527326,"Remove manifest
+"
+post,openforcefield_openforcefield,5aedfdce57db1a4849c1446d5f8f6285386de70b,John Chodera <john.chodera@choderalab.org>,1536527527,"Standardize styling of Open Force Field Initiative / Consortium
+"
+post,openforcefield_openforcefield,35eeef9180b48dbbe4c16dac5cdfeaf2e9643e59,John Chodera <john.chodera@choderalab.org>,1536528162,"Only maintain one set of installation instructions (in the online docs).
+"
+post,openforcefield_openforcefield,aa6607a4d3a540b66f012d876ce2f6a1627b5683,John Chodera <john.chodera@choderalab.org>,1536536823,"Fix some typos in installation instructions.
+"
+pre,r-spatial_mapedit,b7bd0003b03fc34e28df49df9ce7d71c689cb1e0,timelyportfolio <kent.russell@timelyportfolio.com>,1580649930,"add comment about url in cran-comments
+"
+pre,r-spatial_mapedit,686d3f42b04a2d13031b004afc962ce1da3cc589,timelyportfolio <kent.russell@timelyportfolio.com>,1580658755,"merge and fix conflicts
+
+Merge branch 'master' of https://github.com/r-spatial/mapedit
+
+# Conflicts:
+#	man/drawFeatures.Rd
+"
+pre,r-spatial_mapedit,3093d69c9ebbf67dd9cbdffe97be9ab1622f63dd,timelyportfolio <kent.russell@timelyportfolio.com>,1585138915,"cancel onSessionEnded handler on done/cancel to fix #83
+"
+pre,r-spatial_mapedit,027b2da490c18397661219c41d670d3982e0a65e,timelyportfolio <kent.russell@timelyportfolio.com>,1586314615,"fix #106 by properly removing multiple deleted items from `finished`
+"
+pre,r-spatial_mapedit,eaf6a573f2bfc23a13dfb3b1a00fa5c3ad2f0193,timelyportfolio <kent.russell@timelyportfolio.com>,1586314675,"update date, minor increment version, and add NEWS
+"
+pre,r-spatial_mapedit,106e131a7ea1cdbf52e80ba1ed607560e272642e,tim-salabim <tim.appelhans@gmail.com>,1586530188,"roxygen update
+"
+pre,r-spatial_mapedit,8328411a45513f788dc25e6b4214df53363d6494,tim-salabim <tim.appelhans@gmail.com>,1586530208,"fix #110
+"
+pre,r-spatial_mapedit,88db6e8e09977316cc1d13d1283e041d82c6bdc2,tim-salabim <tim.appelhans@gmail.com>,1586530621,"Merge branch 'develop'
+"
+pre,r-spatial_mapedit,330c522f37997bdd580e53dd92c2dadbd160c08f,timelyportfolio <kent.russell@timelyportfolio.com>,1586826946,"update date and add news for #110
+"
+pre,r-spatial_mapedit,b5bad16e046a27447b09194ea9d759b4b3192239,timelyportfolio <kent.russell@timelyportfolio.com>,1586829303,"copy unexported mapview:::initMap for #110
+"
+post,r-spatial_mapedit,a76d3a9914375ddfc9bcc8abb8b9f60689093492,Matt Johnson <mrjoh3@gmail.com>,1620558280,"example adding new row and geometry
+"
+post,r-spatial_mapedit,49a80cb847b837baded3ce77da4316f5972dcb6e,Matt Johnson <mrjoh3@gmail.com>,1620731701,"add geom and rows to any data.frame
+"
+post,r-spatial_mapedit,5212b55c7ccc4e91de9ef9a52ccf3f09a197b790,Matt Johnson <mrjoh3@gmail.com>,1620819648,"add new column
+"
+post,r-spatial_mapedit,f01687f08ab8f73fb33cb08806d062d92d00d02d,Matt Johnson <mrjoh3@gmail.com>,1620825843,"fix typo so add row form updates
+"
+post,r-spatial_mapedit,0c1cb339050a4cdccb390519d0216294fac822e9,Matt Johnson <mrjoh3@gmail.com>,1620872182,"input and update sf
+"
+post,r-spatial_mapedit,0ba9d61bd56a95cb784503f53b6ed4b9e49bade0,Matt Johnson <mrjoh3@gmail.com>,1620887088,"add zoom to areafor data.frame input
+"
+post,r-spatial_mapedit,19e3d30f2ac7681c9ff161dc2a77b71fc3283480,Matt Johnson <mrjoh3@gmail.com>,1620888916,"hide zoomto layer
+"
+post,r-spatial_mapedit,acdba0b73acec3c6be96481ae3f94017f0d7ca56,Matt Johnson <mrjoh3@gmail.com>,1620890386,"big green button
+"
+post,r-spatial_mapedit,6da822b60384591faaa77410d054baaee7731553,Matt Johnson <mrjoh3@gmail.com>,1620907651,"include date fields, clear row form on row add, ensure app does not close/save with empty geometry
+"
+post,r-spatial_mapedit,5d6e47d87beeb4722a1b0822a3d48353fdbb534b,Matt Johnson <mrjoh3@gmail.com>,1620908156,"add forms to well panel and make add buttons blue
+"
+pre,ropensci_textreuse,cbc0a597b8d81846bf8bedbeb8a7ad79b420ff61,Romain Francois <romain@rstudio.com>,1585925767,"Move ""lsh_buckets"" class to the left
+"
+pre,ropensci_textreuse,a7234a9f92556d3e65bab6e40d5a6bf438906085,Romain Francois <romain@rstudio.com>,1585926492,"use tibble::tibble() instead of deprecated data_frame()
+"
+pre,ropensci_textreuse,97408952a8786d84d5e7c1bf41b2f1534c402fcd,Romain François <romain@purrple.cat>,1585926582,"Merge a7234a9f92556d3e65bab6e40d5a6bf438906085 into a96fec39d68b3a036b18d6e2a209326fb7eeca25
+"
+pre,ropensci_textreuse,237ecf966a40a1a89f6ad57d050a2ef5c35c0c04,Lincoln Mullen <lincoln@lincolnmullen.com>,1589325412,"Changes for dply 1.0.0
+"
+pre,ropensci_textreuse,70c40f8ea75a259cf1000953c3fd72777e25e360,Lincoln Mullen <lincoln@lincolnmullen.com>,1589327024,"Fixes for release
+"
+pre,ropensci_textreuse,b23832a77dd9af82c0ffa4107560f302834cf9b6,Lincoln Mullen <lincoln@lincolnmullen.com>,1589332075,"Fix Rcpp registration
+"
+pre,ropensci_textreuse,cefb2524958abe98c057d7f0184804efd7a046c8,Lincoln Mullen <lincoln@lincolnmullen.com>,1589332232,"Update news for release
+"
+pre,ropensci_textreuse,f068f46d4c33436238ef4654897863e5ea69c9ee,Lincoln Mullen <lincoln@lincolnmullen.com>,1589489644,"URL to conduct
+"
+pre,ropensci_textreuse,4e2ca37f3aeca8ad0308ae8bf43f302a4af0d54a,Lincoln Mullen <lincoln@lincolnmullen.com>,1589489739,"Bump date
+"
+pre,ropensci_textreuse,0f453d603816fcd8521303dee8ac42b35537b5b9,Lincoln Mullen <lincoln@lincolnmullen.com>,1589553739,"Fix URL in README too.
+"
+post,ropensci_textreuse,3321ee28c73af5328c2fad74f86173438b882791,Yaoxiang Li <liyaoxiang@outlook.com>,1716553529,"Update RcppExports.cpp
+"
+post,ropensci_textreuse,5442873ffe8cc366387d0e67a0c6b79a6581bbdb,Yaoxiang Li <liyaoxiang@outlook.com>,1716553535,"Update README.md
+"
+post,ropensci_textreuse,c2ad5ad29b1a2adcdbc1acb342733be7f8e309fe,Yaoxiang Li <liyaoxiang@outlook.com>,1716553537,"Create .gitignore
+"
+post,ropensci_textreuse,04aefaced0c7390c7818df1fac4089d6542de6db,Yaoxiang Li <liyaoxiang@outlook.com>,1716553587,"Update textreuse-package.r
+"
+post,ropensci_textreuse,e310fe68e5438b6aed552d0394fc913b360e263f,Yaoxiang Li <liyaoxiang@outlook.com>,1716565762,"updated maintainer
+"
+post,ropensci_textreuse,bb892527fbf2931b2c495013b5aee3e19756df7d,Yaoxiang Li <liyaoxiang@outlook.com>,1716565977,"update RoxygenNote  to 7.3.1
+"
+post,ropensci_textreuse,eb305d2bdbd791eda265388ce0adbf48feb568a8,Yaoxiang Li <liyaoxiang@outlook.com>,1722871894,Merge branch 'master' into docs
+post,ropensci_textreuse,32fc1f19ee6cc9d32fd64b5e4127d8cf383b40c1,Yaoxiang Li <liyaoxiang@outlook.com>,1722872326,"Merge pull request #87 from ropensci/docs
+
+Add official docs url to description"
+post,ropensci_textreuse,75a9ad7142ba0c31ccdc408a3269e64705c645db,Yaoxiang Li <liyaoxiang@outlook.com>,1722872613,Merge branch 'master' into dplyr_1_0_0
+post,ropensci_textreuse,9cf2568ee8a758aac30c8f64edcfc6f7c17e1434,Yaoxiang Li <liyaoxiang@outlook.com>,1722872625,"Merge pull request #91 from romainfrancois/dplyr_1_0_0
+
+Move ""lsh_buckets"" class to the left"
